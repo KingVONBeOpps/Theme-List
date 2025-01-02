@@ -23,6 +23,11 @@
     {
       "filename": "ThemeDemo.json",
       "themeurl": "https://raw.githubusercontent.com/KingVONBeOpps/Theme-List/refs/heads/main/ThemeDemo.json"
-    }
+    },
+
+    {
+        "filename": "Xulus.json",
+        "themeurl": "https://raw.githubusercontent.com/KingVONBeOpps/Theme-List/refs/heads/main/Xulus.json"
+      }
     
   ]
